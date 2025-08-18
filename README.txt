@@ -1,6 +1,8 @@
 📊 Data Analyst Portfolio
 
-Hi, I’m Avila Kiwango, a aspiring Data Scientist, passionate about turning raw data into actionable insights. I enjoy exploring datasets, building dashboards, and applying statistical methods to solve real-world challenges. My interests lie in  international development, and technology for social impact.
+Hi, I’m Avila Kiwango, a aspiring Data Scientist, passionate about turning raw data into actionable insights. 
+I enjoy exploring datasets, building dashboards, and applying statistical methods to solve real-world challenges. 
+My interests lie in  international development, and technology for social impact.
 
 🔧 Skills & Tools
 Languages & Tools:
@@ -30,3 +32,4 @@ And many others..
 📧 Email: atkiwango@gmail.com
 
 ✨ Thanks for stopping by! Feel free to explore the projects and reach out if you’d like to collaborate.
+

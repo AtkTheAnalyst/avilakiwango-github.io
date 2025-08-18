@@ -8,14 +8,14 @@ My interests lie in  international development, and technology for social impact
 Languages & Tools:
 - Python (pandas, numpy, matplotlib, seaborn)
 - SQL (Trino, PostgreSQL, BigQuery)
-- Data Visualisation (Apache Superset, Power BI, Excel)
+- Data Visualisation (Apache Superset, Power BI, Excel, Tableau)
 - Git & GitHub
 
 Core Skills:
 - Data cleaning & preparation
 - Exploratory data analysis (EDA)
 - Hypothesis testing & statistical inference
-- Predictive modelling basics
+- Predictive modelling, Clustering
 - Dashboard building & reporting
 
 📂 Featured Projects
@@ -32,4 +32,5 @@ And many others..
 📧 Email: atkiwango@gmail.com
 
 ✨ Thanks for stopping by! Feel free to explore the projects and reach out if you’d like to collaborate.
+
 

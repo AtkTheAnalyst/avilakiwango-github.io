@@ -7,7 +7,7 @@ My interests lie in  international development, and technology for social impact
 🔧 Skills & Tools
 Languages & Tools:
 - Python (pandas, numpy, matplotlib, seaborn)
-- SQL (Trino, PostgreSQL, BigQuery)
+- SQL (MySQL, PostgreSQL, BigQuery)
 - Data Visualisation (Apache Superset, Power BI, Excel, Tableau)
 - Git & GitHub
 
@@ -34,6 +34,7 @@ And many others..
 
 
 ✨ Thanks for stopping by! Feel free to explore the projects and reach out if you’d like to collaborate.
+
 
 
 
